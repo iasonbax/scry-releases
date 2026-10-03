@@ -1,16 +1,13 @@
 # Scry
 
 **Scry** ist ein passiver Netzwerkmonitor für eigene ChatGPT-/Codex-Verbindungen.
-Der installierte App-Name lautet aktuell **Chatlive**. Das Projekt soll später
-in mockd integriert werden.
-
+Der installierte App-Name lautet aktuell **Chatlive**. 
 ## Download
 
 [Installer und Release-Notizen herunterladen](https://github.com/iasonbax/scry-releases/releases).
 
 Wähle das Asset `chatlive-X.Y.Z-macos.pkg`. Es installiert die native Mac-App und
 ihren Capture-Helfer. Das Paket funktioniert auf Apple Silicon und Intel ab macOS 12.
-Homebrew, ein vorhandenes Python und Xcode sind für die Installation nicht nötig.
 Beim ersten Start werden private Runtimes geladen; dafür ist Internet erforderlich.
 
 Aktuelle Releases sind **Previews mit lokaler Ad-hoc-Signatur** und noch nicht von

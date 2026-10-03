@@ -1,6 +1,6 @@
 # Scry
 
-**Scry** ist ein passiver Netzwerkmonitor für eigene ChatGPT-/Codex-Verbindungen.
+**Scry** ist ein passiver Netzwerkmonitor für eigene ChatGPT Verbindungen. Es ermöglicht das mitlesen des geschützten nicht exportierbaren chats der ChatGPT App
 Der installierte App-Name lautet aktuell **Chatlive**. 
 ## Download
 
